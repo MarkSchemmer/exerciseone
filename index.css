@@ -11,6 +11,7 @@ body {
     background-color: blue;
     z-index: -1;
     top: 20vh;
+    margin: auto;
 }
 
 .inner-square {
