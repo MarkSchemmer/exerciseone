@@ -23,7 +23,9 @@
 }
 
 #myCanvas {
-    position: relative;
-    top: 97px;
-    left: 32%;
+    border: 1px solid #000000;
+    background: blue;
+    top: 200px;
+    width: 500px;
+    margin: auto;
 }
