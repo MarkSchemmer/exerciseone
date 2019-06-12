@@ -21,3 +21,9 @@
     top: 30%;
     left: 30%;
 }
+
+#myCanvas {
+    position: relative;
+    top: 97px;
+    left: 32%;
+}
